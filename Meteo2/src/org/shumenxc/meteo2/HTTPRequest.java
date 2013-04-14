@@ -7,7 +7,6 @@ import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
-import org.apache.http.conn.ClientConnectionManager;
 import org.apache.http.entity.mime.HttpMultipartMode;
 import org.apache.http.entity.mime.MultipartEntity;
 import org.apache.http.entity.mime.content.FileBody;
@@ -22,20 +21,15 @@ import android.util.Log;
 
 public class HTTPRequest {
 
-	public static HttpResponse post(List<NameValuePair> nameValuePairs) {
+	public static HttpResponse post(List<NameValuePair> nameValuePairs, HttpPost httpPost) {
 	  
-		String url = Settings.host;
-		
 		BasicHttpParams httpParams = new BasicHttpParams();
 		HttpConnectionParams.setConnectionTimeout(httpParams, 30000);
 		HttpConnectionParams.setSoTimeout(httpParams, 30000);
 	      
 		
-		HttpClient httpClient = new DefaultHttpClient(httpParams);
-		 
-	
+		HttpClient httpClient = new DefaultHttpClient(httpParams); 
 		HttpContext localContext = new BasicHttpContext();
-	    HttpPost httpPost = new HttpPost(url);
 	    HttpResponse response = null; 
 	     
 	   
@@ -63,6 +57,10 @@ public class HTTPRequest {
 		return response;
 	}
 	 
+	
+	public static HttpPost getPost(String url) {
+		return new HttpPost(url);
+	}
 	
 	
 }

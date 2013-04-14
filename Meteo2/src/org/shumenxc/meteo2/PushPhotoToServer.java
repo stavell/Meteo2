@@ -11,22 +11,19 @@ import android.os.Environment;
 import android.util.Log;
 
 	
-	class PushToServer extends AsyncTask<String, String, String> {
+	class PushPhotoToServer extends AsyncTask<String, String, String> {
 
 		@Override
 		protected String doInBackground(String... params) {
-			
-		
+			 
 			ArrayList<NameValuePair> reqParams = new ArrayList<NameValuePair>(); 
 			
 			reqParams.add(new BasicNameValuePair("file", Environment.getExternalStorageDirectory()+"/photo.jpg"));
    
-			try {
-				HttpResponse response = HTTPRequest.post(reqParams);
+			try { 
+				HttpResponse response = HTTPRequest.post(reqParams, HTTPRequest.getPost(Settings.host));
 
-				Settings.parseSettingsFromHTTPResponse(response); 
-				
-
+				Settings.parseSettingsFromHTTPResponse(response);  
 				
 			} catch (Exception e) {
 				Log.e("http", e.getMessage());
