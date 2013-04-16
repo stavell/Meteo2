@@ -31,32 +31,10 @@ public class CameraInterface {
 	public void open() {
 		
 		try {
-			
+
 			mCamera = Camera.open();
-		
-			mCamera.setErrorCallback(new Camera.ErrorCallback() {
-				@Override
-				public void onError(int error, Camera camera) {
-					mCamera.release();
-				}
-			});
-			
-			Camera.Parameters cParams = mCamera.getParameters();  
-			Iterator<String> it = Settings.cameraParams.keySet().iterator(); 
-			
-			while(it.hasNext()) {
-				String key = it.next();
-				Object val = Settings.cameraParams.get(key);
-				String type = val.getClass().getSimpleName();
- 			 
-				if(type.equalsIgnoreCase("Integer")) {
-					cParams.set(key, (Integer)Settings.cameraParams.get(key));	
-				} else {
-					cParams.set(key, (String)Settings.cameraParams.get(key));
-				}
-			}  
-			mCamera.setParameters(cParams);
-			
+
+
 			SurfaceView dummyView = new SurfaceView(context);
 			SurfaceHolder dummyHolder = dummyView.getHolder();
 			dummyHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS); 
@@ -84,11 +62,27 @@ public class CameraInterface {
 		
 		try { 
 			
+			Camera.Parameters cParams = mCamera.getParameters();  
+			Iterator<String> it = Settings.cameraParams.keySet().iterator(); 
+			
+			while(it.hasNext()) {
+				String key = it.next();
+				Object val = Settings.cameraParams.get(key);
+				String type = val.getClass().getSimpleName();
+ 			 
+				if(type.equalsIgnoreCase("Integer")) {
+					cParams.set(key, (Integer)Settings.cameraParams.get(key));	
+				} else {
+					cParams.set(key, (String)Settings.cameraParams.get(key));
+				}
+			}  
+			mCamera.setParameters(cParams);
+			
 			mCamera.startPreview();
 			mCamera.takePicture(null, null, new Camera.PictureCallback() {
 				@Override
 				public void onPictureTaken(byte[] data, Camera camera) {
-					mCamera.stopPreview(); 
+					camera.stopPreview(); 
 					 
 					new AsyncTask<byte[], String, Boolean>() {
 						@Override

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.shumenxc.meteo2"
+<manifest package="org.shumenxc.meteo2"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-sdk
         android:minSdkVersion="8"
-        android:targetSdkVersion="10" />
+        android:targetSdkVersion="8" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -94,17 +93,13 @@
     <uses-permission android:name="android.permission.WRITE_SOCIAL_STREAM" />
     <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
 
-    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera" android:required="true"/>
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
-        <activity
-            android:name="org.shumenxc.meteo2.CameraActivity"
-            android:label="@string/app_name" >
-        </activity>
+        android:theme="@style/AppTheme" android:persistent="true">
         <activity
             android:name="org.shumenxc.meteo2.MainActivity"
             android:label="@string/title_activity_main" >
@@ -114,6 +109,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <receiver android:name="NexianBroadcastReceiver">
+            <intent-filter>
+                <action  android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action  android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action  android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+                <action  android:name="android.intent.action.BATTERY_CHANGED"/>
+                <action  android:name="android.intent.action.BATTERY_LOW"/>
+                <action  android:name="android.intent.action.BATTERY_OKAY"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="BluetoothService" android:label="BluetoothService"></service>
+        <service android:name="CameraService" android:label="CameraService"></service>
+        
     </application>
 
 </manifest>

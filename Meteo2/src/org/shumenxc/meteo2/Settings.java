@@ -25,10 +25,10 @@ public class Settings {
 		try {
 			systemParams.put("push_interval", "60");
 			
-			cameraParams.put("cameraselect", "camera-back");
-			cameraParams.put("picture-size", "800x480");
-			cameraParams.put("jpeg-quality", 90);
-			 
+//			cameraParams.put("cameraselect", "camera-back");
+//			cameraParams.put("picture-size", "800x480");
+//			cameraParams.put("jpeg-quality", 90);
+//			 
 		} catch (Exception e) {
 			Log.e("settings", e.getMessage());
 		}  

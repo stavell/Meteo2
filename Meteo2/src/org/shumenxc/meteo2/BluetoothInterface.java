@@ -22,8 +22,9 @@ public class BluetoothInterface {
 	
 	InputStream inStream;
 	OutputStream outStream;
-	
+	BluetoothDevice device;
 	Handler handler;
+	Handler handlerAct;
 	
 	ReceiverThread receiverThread;
 	
@@ -32,25 +33,15 @@ public class BluetoothInterface {
 		try {
 
 			btAdapter = BluetoothAdapter.getDefaultAdapter();
-			
-			BluetoothDevice device = btAdapter.getRemoteDevice(address);
-
-			if( device.getBondState() != BluetoothDevice.BOND_BONDED) throw new Exception("Not bonded,please bond and then come back");
-
-			btSocket = device.createRfcommSocketToServiceRecord(SPPUUID);
-
-			inStream = btSocket.getInputStream();
-			outStream = btSocket.getOutputStream();
-			
-			
+					
 		} catch (Exception e) {
 			Log.e("btInterface", e.getMessage());
 		}
 		
 
-		
+		handlerAct = h;
 		handler = hstatus;
-		receiverThread = new ReceiverThread(h);
+		
 		
 	}
 	
@@ -64,12 +55,23 @@ public class BluetoothInterface {
 		new Thread() {
 			public void run() {
 				try {
+
+					device = btAdapter.getRemoteDevice(address);
+
+					if( device.getBondState() != BluetoothDevice.BOND_BONDED) throw new Exception("Not bonded,please bond and then come back");
+
+					btSocket = device.createRfcommSocketToServiceRecord(SPPUUID);
+
+					inStream = btSocket.getInputStream();
+					outStream = btSocket.getOutputStream();
+					
 					btSocket.connect();
 					
 					Message msg = handler.obtainMessage();
 					msg.arg1 = 1;
 					handler.sendMessage(msg);
 					
+					receiverThread = new ReceiverThread(handlerAct);
 					receiverThread.start(); 
 					
 				} catch (Exception e) {
@@ -86,6 +88,8 @@ public class BluetoothInterface {
 	public void close() {
 		try {
 			btSocket.close();
+			receiverThread.stop = true;
+			
 		} catch (Exception e) {
 			Log.e("Close failed", e.getMessage());
 		}
@@ -95,7 +99,7 @@ public class BluetoothInterface {
 	private class ReceiverThread extends Thread {
 		
 		Handler handler;
-
+		volatile Boolean stop = false;
 		byte buffer[] = new byte[255];
 		Integer bytes = Integer.valueOf(0);
 		StringBuilder sb;
@@ -105,9 +109,15 @@ public class BluetoothInterface {
 			sb = new StringBuilder();
 		}
 
+		synchronized protected void kill(Thread t) {
+			t = null;
+		}
+		
 		@Override
 		public void run() {
+			
 		    while (true) {
+		    	if(stop) this.kill(this);
 	        	try {
 	        		bytes = inStream.read(buffer);
 	        		
@@ -125,7 +135,7 @@ public class BluetoothInterface {
                 	}
                 	
 	            } catch (Exception e) {
-	    	    	Log.e("err", e.getMessage());
+	    	    	Log.e("btinputThread", e.getMessage());
 	    	    	break;
 	            }
 	        }
