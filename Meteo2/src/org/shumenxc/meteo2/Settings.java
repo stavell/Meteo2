@@ -32,7 +32,7 @@ public class Settings {
 		try {
 			systemParams.put("photo_push_interval", "60");
 			systemParams.put("settings_version", "0");
-			systemParams.put("bluetooth_target_address", "00:12:05:09:94:96");
+			systemParams.put("bluetooth_target_address", "00:15:FF:F3:23:D6");
 		} catch (Exception e) {
 			Log.e("settings", e.getMessage());
 		}  
