@@ -15,7 +15,7 @@ import android.util.Log;
 public class BluetoothInterface {
 
 	private static final UUID SPPUUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
-	private static String address = "00:12:05:09:94:96";
+	private static String address = (String) Settings.systemParams.get("bluetooth_target_address");
 
 	BluetoothAdapter btAdapter;
 	BluetoothSocket btSocket;

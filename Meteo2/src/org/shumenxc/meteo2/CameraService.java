@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.Message;
+import android.util.Log;
 
 @SuppressLint("HandlerLeak")
 public class CameraService extends Service {
@@ -28,14 +29,15 @@ public class CameraService extends Service {
 		
 		camera.open();
 
+		Long takePictureInterval = Long.parseLong((String) Settings.systemParams.get("photo_push_interval"));
+		
+		Log.e("pictureInterval", takePictureInterval.toString());
+		
 		scheduleTaskExecutor.scheduleAtFixedRate(new Runnable() {
 			  public void run() {
-
 				  camera.takePicture();
-
-
 			  }
-		}, 0, 60, TimeUnit.SECONDS);
+		}, 0, takePictureInterval, TimeUnit.SECONDS);
 
 		
 		super.onCreate();
@@ -53,8 +55,6 @@ public class CameraService extends Service {
 	
 	@Override
 	public void onStart(Intent intent, int startId) {
-
-
 		super.onStart(intent, startId);
 	}
 	

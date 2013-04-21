@@ -35,7 +35,8 @@ public class HTTPRequest {
 	   
 	    try {
 	        MultipartEntity entity = new MultipartEntity(HttpMultipartMode.BROWSER_COMPATIBLE);
-	       
+
+
 	        for(int index=0; index < nameValuePairs.size(); index++) {
 	            if(nameValuePairs.get(index).getName().equalsIgnoreCase("file")) {
 	                // If the key equals to "image", we use FileBody to transfer the data

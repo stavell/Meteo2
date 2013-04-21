@@ -19,7 +19,8 @@ import android.util.Log;
 			ArrayList<NameValuePair> reqParams = new ArrayList<NameValuePair>(); 
 			
 			reqParams.add(new BasicNameValuePair("file", Environment.getExternalStorageDirectory()+"/photo.jpg"));
-   
+//			reqParams.add(new BasicNameValuePair("settings_version", (String) Settings.systemParams.get("settings_version")));
+
 			try { 
 				HttpResponse response = HTTPRequest.post(reqParams, HTTPRequest.getPost(Settings.host));
 
