@@ -19,5 +19,7 @@ local.properties
 .classpath
 .project
 
-+.idea/
- nbproject/
+.idea/
+nbproject/
+
+meteo2Web/Meteo2/protected/config/main.php
