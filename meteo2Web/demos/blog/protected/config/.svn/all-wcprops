@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/demos/blog/protected/config
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/646/trunk/demos/blog/protected/config/test.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/yiisoft/yii/!svn/ver/645/trunk/demos/blog/protected/config/console.php
+END
+params.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/yiisoft/yii/!svn/ver/645/trunk/demos/blog/protected/config/params.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4144/trunk/demos/blog/protected/config/main.php
+END

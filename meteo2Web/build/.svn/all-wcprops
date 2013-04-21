@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/yiisoft/yii/!svn/ver/4235/trunk/build
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/yiisoft/yii/!svn/ver/4235/trunk/build/build
+END
+generate_accessors_phpdoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/4235/trunk/build/generate_accessors_phpdoc.php
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/yiisoft/yii/!svn/ver/4235/trunk/build/build.bat
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/yiisoft/yii/!svn/ver/354/trunk/build/.htaccess
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/yiisoft/yii/!svn/ver/4235/trunk/build/build.xml
+END

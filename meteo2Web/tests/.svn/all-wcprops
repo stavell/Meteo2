@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/yiisoft/yii/!svn/ver/4269/trunk/tests
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/yiisoft/yii/!svn/ver/4144/trunk/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/yiisoft/yii/!svn/ver/1914/trunk/tests/phpunit.xml
+END
+TestApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/1914/trunk/tests/TestApplication.php
+END
+rununit.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/yiisoft/yii/!svn/ver/3233/trunk/tests/rununit.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/yiisoft/yii/!svn/ver/1939/trunk/tests/readme.txt
+END
+TestHttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/4144/trunk/tests/TestHttpRequest.php
+END

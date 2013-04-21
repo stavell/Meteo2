@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/646/trunk/demos/blog/protected/tests/functional
+END
+CommentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/646/trunk/demos/blog/protected/tests/functional/CommentTest.php
+END
+SiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/646/trunk/demos/blog/protected/tests/functional/SiteTest.php
+END
+PostTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/646/trunk/demos/blog/protected/tests/functional/PostTest.php
+END

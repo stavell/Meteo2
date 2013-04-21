@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands
+END
+CheckBomCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/build/commands/CheckBomCommand.php
+END
+GuideLatexCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/GuideLatexCommand.php
+END
+LiteCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/LiteCommand.php
+END
+BlogLatexCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/364/trunk/build/commands/BlogLatexCommand.php
+END
+TranslationsCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/yiisoft/yii/!svn/ver/4144/trunk/build/commands/TranslationsCommand.php
+END
+CldrCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/CldrCommand.php
+END
+Utf8Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/Utf8Command.php
+END
+AutoloadCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/AutoloadCommand.php
+END
+ApiCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4235/trunk/build/commands/ApiCommand.php
+END

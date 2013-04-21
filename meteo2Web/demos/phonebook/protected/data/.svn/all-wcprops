@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/78/trunk/demos/phonebook/protected/data
+END
+phonebook.db
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/78/trunk/demos/phonebook/protected/data/phonebook.db
+END
+schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/yiisoft/yii/!svn/ver/58/trunk/demos/phonebook/protected/data/schema.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/controllers
+END
+home2.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/1914/trunk/tests/framework/web/controllers/home2.php
+END
+article.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/yiisoft/yii/!svn/ver/1914/trunk/tests/framework/web/controllers/article.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/1914/trunk/tests/framework/web/controllers/post.php
+END
+SoapController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/controllers/SoapController.php
+END

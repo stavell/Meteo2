@@ -1,0 +1,80 @@
+10
+
+dir
+4271
+https://github.com/yiisoft/yii/trunk/demos/phonebook/protected
+https://github.com/yiisoft/yii
+
+
+
+2013-04-08T09:50:03.000000Z
+351
+alexander.makarov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87037b24-bcb4-18d1-d9d9-ce57b7db7bff
+
+models
+dir
+
+components
+dir
+
+config
+dir
+
+controllers
+dir
+
+data
+dir
+
+.htaccess
+file
+
+
+
+
+2013-04-08T18:08:52.000000Z
+43fb2793322c7890b91a4b3e2f21a0ef
+2013-04-08T09:50:03.000000Z
+58
+alexander.makarov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+views
+dir
+

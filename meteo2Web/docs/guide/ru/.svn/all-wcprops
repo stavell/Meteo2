@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/yiisoft/yii/!svn/ver/4260/trunk/docs/guide/ru
+END
+topics.auth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.auth.txt
+END
+form.model.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4235/trunk/docs/guide/ru/form.model.txt
+END
+topics.url.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.url.txt
+END
+basics.model.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.model.txt
+END
+test.fixture.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/test.fixture.txt
+END
+topics.prado.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.prado.txt
+END
+basics.application.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.application.txt
+END
+caching.page.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4235/trunk/docs/guide/ru/caching.page.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/yiisoft/yii/!svn/ver/4235/trunk/docs/guide/ru/index.txt
+END
+form.overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/form.overview.txt
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/4260/trunk/docs/guide/ru/changes.txt
+END
+topics.gii.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.gii.txt
+END
+database.overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/database.overview.txt
+END
+basics.best-practices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.best-practices.txt
+END
+form.view.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/form.view.txt
+END
+basics.workflow.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.workflow.txt
+END
+extension.create.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/extension.create.txt
+END
+topics.i18n.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.i18n.txt
+END
+test.functional.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/test.functional.txt
+END
+basics.controller.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.controller.txt
+END
+topics.logging.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/yiisoft/yii/!svn/ver/4235/trunk/docs/guide/ru/topics.logging.txt
+END
+database.arr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4260/trunk/docs/guide/ru/database.arr.txt
+END
+form.builder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4260/trunk/docs/guide/ru/form.builder.txt
+END
+form.table.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/form.table.txt
+END
+quickstart.first-app-yiic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/quickstart.first-app-yiic.txt
+END
+quickstart.installation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/quickstart.installation.txt
+END
+database.query-builder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/database.query-builder.txt
+END
+database.migration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/database.migration.txt
+END
+test.unit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/test.unit.txt
+END
+extension.integration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/extension.integration.txt
+END
+caching.fragment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/caching.fragment.txt
+END
+quickstart.apache-nginx-config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/quickstart.apache-nginx-config.txt
+END
+quickstart.first-app.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/quickstart.first-app.txt
+END
+caching.overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/caching.overview.txt
+END
+topics.performance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.performance.txt
+END
+topics.console.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.console.txt
+END
+basics.entry.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.entry.txt
+END
+caching.data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/caching.data.txt
+END
+database.ar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/database.ar.txt
+END
+basics.component.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.component.txt
+END
+database.dao.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/database.dao.txt
+END
+extension.use.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/extension.use.txt
+END
+topics.security.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.security.txt
+END
+basics.view.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4235/trunk/docs/guide/ru/basics.view.txt
+END
+form.action.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/form.action.txt
+END
+caching.dynamic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/caching.dynamic.txt
+END
+extension.overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/extension.overview.txt
+END
+test.overview.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/test.overview.txt
+END
+basics.convention.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.convention.txt
+END
+toc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/toc.txt
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/upgrade.txt
+END
+basics.module.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.module.txt
+END
+basics.mvc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.mvc.txt
+END
+topics.error.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.error.txt
+END
+topics.theming.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/yiisoft/yii/!svn/ver/4260/trunk/docs/guide/ru/topics.theming.txt
+END
+quickstart.what-is-yii.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/quickstart.what-is-yii.txt
+END
+topics.webservice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/topics.webservice.txt
+END
+basics.namespace.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/yiisoft/yii/!svn/ver/4144/trunk/docs/guide/ru/basics.namespace.txt
+END

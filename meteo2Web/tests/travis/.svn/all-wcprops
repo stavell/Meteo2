@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/yiisoft/yii/!svn/ver/4260/trunk/tests/travis
+END
+memcache-setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/yiisoft/yii/!svn/ver/4260/trunk/tests/travis/memcache-setup.sh
+END
+postgresql-setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/yiisoft/yii/!svn/ver/4144/trunk/tests/travis/postgresql-setup.sh
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/yiisoft/yii/!svn/ver/4144/trunk/tests/travis/README.md
+END
+mysql-setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/tests/travis/mysql-setup.sh
+END

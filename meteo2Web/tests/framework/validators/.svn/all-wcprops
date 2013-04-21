@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators
+END
+CTypeValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/validators/CTypeValidatorTest.php
+END
+CDefaultValueValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/yiisoft/yii/!svn/ver/2229/trunk/tests/framework/validators/CDefaultValueValidatorTest.php
+END
+CCompareValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CCompareValidatorTest.php
+END
+CEmailValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CEmailValidatorTest.php
+END
+CNumberValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CNumberValidatorTest.php
+END
+CExistValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CExistValidatorTest.php
+END
+ValidatorTestModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/ValidatorTestModel.php
+END
+ScenariosTestModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/validators/ScenariosTestModel.php
+END
+ModelMock.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/2229/trunk/tests/framework/validators/ModelMock.php
+END
+CUrlValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CUrlValidatorTest.php
+END
+CUniqueValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CUniqueValidatorTest.php
+END
+CStringValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CStringValidatorTest.php
+END
+CDateValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CDateValidatorTest.php
+END
+CValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/validators/CValidatorTest.php
+END
+CFileValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/validators/CFileValidatorTest.php
+END
+CBooleanValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/validators/CBooleanValidatorTest.php
+END

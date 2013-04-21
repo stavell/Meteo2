@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/index.txt
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/upgrade.txt
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/changes.txt
+END
+quickstart.installation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/quickstart.installation.txt
+END
+quickstart.what-is-yii.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/quickstart.what-is-yii.txt
+END
+quickstart.first-app.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/yiisoft/yii/!svn/ver/2075/trunk/docs/guide/nl/quickstart.first-app.txt
+END

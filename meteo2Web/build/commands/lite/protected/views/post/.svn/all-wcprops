@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/yiisoft/yii/!svn/ver/330/trunk/build/commands/lite/protected/views/post
+END
+list.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/yiisoft/yii/!svn/ver/330/trunk/build/commands/lite/protected/views/post/list.php
+END
+show.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/yiisoft/yii/!svn/ver/74/trunk/build/commands/lite/protected/views/post/show.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/74/trunk/build/commands/lite/protected/views/post/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/74/trunk/build/commands/lite/protected/views/post/create.php
+END

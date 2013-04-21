@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/services
+END
+CWsdlGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/services/CWsdlGeneratorTest.php
+END
+SoapPovCalculationResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/services/SoapPovCalculationResult.php
+END
+SoapPovCalculationInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/services/SoapPovCalculationInput.php
+END
+SoapPovCalculationOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/services/SoapPovCalculationOutput.php
+END

@@ -1,0 +1,58 @@
+10
+
+dir
+4271
+https://github.com/yiisoft/yii/trunk/tests/framework
+https://github.com/yiisoft/yii
+
+
+
+2013-04-08T09:50:03.000000Z
+4269
+alexander.makarov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87037b24-bcb4-18d1-d9d9-ce57b7db7bff
+
+i18n
+dir
+
+utils
+dir
+
+db
+dir
+
+cli
+dir
+
+validators
+dir
+
+base
+dir
+
+zii
+dir
+
+caching
+dir
+
+web
+dir
+
+collections
+dir
+

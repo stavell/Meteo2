@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections
+END
+CConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/yiisoft/yii/!svn/ver/2398/trunk/tests/framework/collections/CConfigurationTest.php
+END
+CListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CListTest.php
+END
+CMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CMapTest.php
+END
+CAttributeCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CAttributeCollectionTest.php
+END
+CTypedListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/yiisoft/yii/!svn/ver/1914/trunk/tests/framework/collections/CTypedListTest.php
+END
+CTypedMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CTypedMapTest.php
+END
+CQueueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CQueueTest.php
+END
+CStackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/collections/CStackTest.php
+END

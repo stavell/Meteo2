@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/yiisoft/yii/!svn/ver/4235/trunk/build/tasks
+END
+YiiInitTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4235/trunk/build/tasks/YiiInitTask.php
+END
+YiiPearTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4235/trunk/build/tasks/YiiPearTask.php
+END

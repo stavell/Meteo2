@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching
+END
+CDirectoryCacheDependencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching/CDirectoryCacheDependencyTest.php
+END
+CDbCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching/CDbCacheTest.php
+END
+CCacheDependencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching/CCacheDependencyTest.php
+END
+CFileCacheDependencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching/CFileCacheDependencyTest.php
+END
+CMemCacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/caching/CMemCacheTest.php
+END

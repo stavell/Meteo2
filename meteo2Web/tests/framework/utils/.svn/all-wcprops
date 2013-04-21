@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/yiisoft/yii/!svn/ver/4235/trunk/tests/framework/utils
+END
+CDateTimeParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/utils/CDateTimeParserTest.php
+END
+CFileHelperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/utils/CFileHelperTest.php
+END
+CFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/yiisoft/yii/!svn/ver/4235/trunk/tests/framework/utils/CFormatterTest.php
+END

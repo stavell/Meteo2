@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/381/trunk/demos/hangman/protected/views/game
+END
+win.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/yiisoft/yii/!svn/ver/134/trunk/demos/hangman/protected/views/game/win.php
+END
+lose.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/yiisoft/yii/!svn/ver/134/trunk/demos/hangman/protected/views/game/lose.php
+END
+play.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/yiisoft/yii/!svn/ver/381/trunk/demos/hangman/protected/views/game/play.php
+END
+guess.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/yiisoft/yii/!svn/ver/134/trunk/demos/hangman/protected/views/game/guess.php
+END

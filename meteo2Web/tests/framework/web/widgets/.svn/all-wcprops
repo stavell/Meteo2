@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/widgets
+END
+CMaskedTextFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/widgets/CMaskedTextFieldTest.php
+END
+CStarRatingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/widgets/CStarRatingTest.php
+END
+CMultiFileUploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/widgets/CMultiFileUploadTest.php
+END
+CAutoCompleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/web/widgets/CAutoCompleteTest.php
+END

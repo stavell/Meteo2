@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/i18n
+END
+YiiTTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/yiisoft/yii/!svn/ver/2395/trunk/tests/framework/i18n/YiiTTest.php
+END
+CNumberFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/yiisoft/yii/!svn/ver/1914/trunk/tests/framework/i18n/CNumberFormatterTest.php
+END
+CPhpMessageSourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/i18n/CPhpMessageSourceTest.php
+END
+CLocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/i18n/CLocaleTest.php
+END
+CDateFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/i18n/CDateFormatterTest.php
+END

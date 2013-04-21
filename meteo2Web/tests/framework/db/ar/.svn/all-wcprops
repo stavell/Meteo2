@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/db/ar
+END
+CActiveRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/yiisoft/yii/!svn/ver/4260/trunk/tests/framework/db/ar/CActiveRecordTest.php
+END
+CActiveRecord2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/db/ar/CActiveRecord2Test.php
+END
+CActiveRecordEventWrappersTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/yiisoft/yii/!svn/ver/4144/trunk/tests/framework/db/ar/CActiveRecordEventWrappersTest.php
+END
