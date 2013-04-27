@@ -20,8 +20,8 @@
 #include "Wire.h"
 
 #include "Timer.h"
-//#include "Adafruit_BMP085.h"
-//#include "DHT.h"
+#include "Adafruit_BMP085.h"
+#include "DHT.h"
 
 extern HardwareSerial Serial;
 
@@ -34,7 +34,6 @@ void onEvery100ms();
 void onEverySecond();
 void onEveryFiveSeconds();
 void onEveryMinute();
-
 
 
 void setup() {
@@ -55,6 +54,10 @@ void setup() {
     
 }
 
+void loop() {
+    timer.update();
+}
+
 void onEvery100ms() {
     
 }
@@ -73,6 +76,4 @@ void onEveryMinute() {
 }
 
 
-void loop() {
-    timer.update();
-}
+
