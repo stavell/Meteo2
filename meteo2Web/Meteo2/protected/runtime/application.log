@@ -1,0 +1,123 @@
+2013/04/30 16:19:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/index
+---
+2013/04/30 16:19:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/index
+---
+2013/04/30 16:19:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/login
+---
+2013/04/30 16:19:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/index
+---
+2013/04/30 16:19:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/contact
+---
+2013/04/30 16:19:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/contact
+---
+2013/04/30 16:19:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/rawData
+---
+2013/04/30 16:33:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/rawData
+---
+2013/04/30 17:26:01 [error] [exception.CException] exception 'CException' with message 'Either "name" or "value" must be specified for CDataColumn.' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/zii/widgets/grid/CDataColumn.php:78
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/zii/widgets/grid/CGridView.php(376): CDataColumn->init()
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/zii/widgets/grid/CGridView.php(334): CGridView->initColumns()
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CBaseController.php(147): CGridView->init()
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CBaseController.php(172): CBaseController->createWidget('zii.widgets.gri...', Array)
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/protected/views/site/stationSettings.php(7): CBaseController->widget('zii.widgets.gri...', Array)
+#5 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CBaseController.php(126): require('/Users/stavel/D...')
+#6 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Users/stavel/D...', Array, true)
+#7 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(869): CBaseController->renderFile('/Users/stavel/D...', Array, true)
+#8 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(782): CController->renderPartial('stationSettings', Array, true)
+#9 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/protected/controllers/SiteController.php(43): CController->render('stationSettings', Array)
+#10 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/actions/CInlineAction.php(49): SiteController->actionStationSettings()
+#11 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('stationSettings')
+#15 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/stationSet...')
+#16 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php?r=site/stationSettings
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/rawData
+---
+2013/05/01 00:25:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rawData".' in /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php:483
+Stack trace:
+#0 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CController.php(270): CController->missingAction('rawData')
+#1 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(282): CController->run('rawData')
+#2 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/web/CWebApplication.php(141): CWebApplication->runController('site/rawData')
+#3 /Users/stavel/Documents/Meteo2/Meteo2Web/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /Users/stavel/Documents/Meteo2/Meteo2Web/Meteo2/index.php(25): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=site/rawData
+HTTP_REFERER=http://l.m2.shumen-xc.org/index.php?r=site/stationSettings
+---

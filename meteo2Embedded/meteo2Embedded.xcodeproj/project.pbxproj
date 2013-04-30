@@ -365,7 +365,6 @@
 		AC54D304172BC38B000153A1 /* Index */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Index; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC54D307172BC38B000153A1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		AC54D30C172BC38B000153A1 /* Makefile */ = {isa = PBXFileReference; explicitFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		AC54D30F172BC38B000153A1 /* Sketchbook.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = Sketchbook.txt; path = Sketchbook/Sketchbook.txt; sourceTree = "<group>"; };
 		AC54D311172BC38B000153A1 /* Arduino mega2560.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = "Arduino mega2560.xcconfig"; path = "Configurations/Arduino mega2560.xcconfig"; sourceTree = "<group>"; };
 		AC54D312172BC38B000153A1 /* Arduino Duemilanove.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = "Arduino Duemilanove.xcconfig"; path = "Configurations/Arduino Duemilanove.xcconfig"; sourceTree = "<group>"; };
 		AC54D313172BC38B000153A1 /* Arduino mini pro.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = "Arduino mini pro.xcconfig"; path = "Configurations/Arduino mini pro.xcconfig"; sourceTree = "<group>"; };
@@ -832,7 +831,6 @@
 				AC54D377172BC8AD000153A1 /* Event.h */,
 				AC54D378172BC8AD000153A1 /* Timer.cpp */,
 				AC54D379172BC8AD000153A1 /* Timer.h */,
-				AC54D30F172BC38B000153A1 /* Sketchbook.txt */,
 			);
 			name = Sketchbook;
 			sourceTree = "<group>";

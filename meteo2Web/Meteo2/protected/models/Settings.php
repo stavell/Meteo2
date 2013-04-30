@@ -16,7 +16,7 @@ class Settings extends CActiveRecord
 
     public function tableName()
     {
-        return 'tbl_post';
+        return 'settings';
     }
 
 }

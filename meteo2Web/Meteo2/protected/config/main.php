@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
     'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-    'name'=>'My Web Application',
+    'name'=>'Meteo2',
 
     // preloading 'log' component
     'preload'=>array('log'),
@@ -58,6 +58,9 @@ return array(
             'username' => 'shumenxc_meteo2',
             'password' => 's4Ou08qGuNhN',
             'charset' => 'utf8',
+        ),
+        'import'=>array(
+            'application.models.*',
         ),
         'errorHandler'=>array(
             // use 'site/error' action to display errors
